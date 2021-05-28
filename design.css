@@ -1,0 +1,31 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+h1{
+    color: aqua;
+    font-size: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    line-height: 20vh;
+}
+
+h1 .white{
+    background-color: white;
+    color: black;
+}
+
+div{
+    height: 20vw;
+    width: 20vw;
+    color: white;
+}
+
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color: black;
+}
